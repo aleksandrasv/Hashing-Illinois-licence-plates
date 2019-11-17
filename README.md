@@ -1,11 +1,12 @@
 # Hashing-Illinois-licence-plates
 
 Implementation of hash table for speciallized IL license plates.
-Functions "Search" and  "Insert" are based on linear probing to store accumulate tickets fees for each licence plate. 
+Functions "Search" and  "Insert" are based on linear probing 
+to store accumulate tickets fees for each licence plate. 
 It is assumed that collisions are handled using probing.
 
 After tickets and corresponting total of fines were stored program write an output file
-with all the record. 
+with all records. 
 
 # Tickets format
 
